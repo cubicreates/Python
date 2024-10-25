@@ -1,3 +1,3 @@
 # Practicals
-My practical file for Semester 1
+My practical file for Semester I
 ~Adit Ghosh
