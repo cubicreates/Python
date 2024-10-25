@@ -34,3 +34,20 @@ print(t3)
 # Input Function in Python
 user_input = input("Enter your name: ")
 print(user_input)
+
+# Print Function
+
+# printing multiple values
+IM = "Tony Stark"
+CA = "Steve Rogers"
+TH = "Thor"
+
+print(IM,CA,TH)
+
+# sep function
+print(IM,CA,TH, sep="\n")
+
+# end function
+print(IM, end=",")
+print(CA, end=",")
+print(TH, end=",")
