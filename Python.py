@@ -30,3 +30,7 @@ print(t2)
 
 print(type3)
 print(t3)
+
+# Input Function in Python
+user_input = input("Enter your name: ")
+print(user_input)
